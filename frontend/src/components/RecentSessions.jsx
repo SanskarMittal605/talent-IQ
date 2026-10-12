@@ -55,7 +55,8 @@ function RecentSessions({ sessions, isLoading }) {
                       <span
                         className={`badge badge-sm ${getDifficultyBadgeClass(session.difficulty)}`}
                       >
-                        {session.difficulty}
+                        {session?.difficulty.slice(0, 1).toUpperCase() +
+                          session?.difficulty.slice(1) || "Easy"}
                       </span>
                     </div>
                   </div>
