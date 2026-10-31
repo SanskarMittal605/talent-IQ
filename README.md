@@ -25,7 +25,7 @@
 - [Environment Variables](#-environment-variables)
 - [Third-Party Integrations](#-third-party-integrations)
 - [Deployment](#-deployment)
-- [Author](#-author)
+- [Developer](#-author)
 
 ---
 
