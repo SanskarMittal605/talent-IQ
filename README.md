@@ -31,8 +31,7 @@
 
 ---
 
----
-
+<a id="about-the-project"></a>
 ## 🚀 About the Project
 
 **Talent-IQ** is a full-stack remote interview platform designed to make technical interviews easier to conduct through a unified online environment.
@@ -47,6 +46,7 @@ Talent-IQ is built using the MERN stack and integrates third-party services for 
 
 ---
 
+<a id="live-application"></a>
 ## 🌐 Live Application
 
 **Try Talent-IQ:** 
@@ -59,6 +59,7 @@ Talent-IQ is built using the MERN stack and integrates third-party services for 
 
 ---
 
+<a id="key-features"></a>
 ## ✨ Key Features
 
 ### 🔐 Authentication and Authorization
@@ -106,6 +107,7 @@ Talent-IQ is built using the MERN stack and integrates third-party services for 
 
 ---
 
+<a id="technology-stack"></a>
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -156,6 +158,7 @@ Talent-IQ is built using the MERN stack and integrates third-party services for 
 
 ---
 
+<a id="system-architecture"></a>
 ## 🏗️ System Architecture
 
 Talent-IQ follows a client-server architecture.
@@ -214,6 +217,7 @@ flowchart TD
 
 ---
 
+<a id="how-talent-iq-works"></a>
 ## 🔄 How Talent-IQ Works
 
 The typical interview workflow is:
@@ -229,6 +233,7 @@ The typical interview workflow is:
 
 ---
 
+<a id="project-structure"></a>
 ## 📂 Project Structure
 
 The project is organized into separate frontend and backend applications.
@@ -275,6 +280,7 @@ TALENT-IQ/
 
 ---
 
+<a id="installation-and-setup"></a>
 ## ⚙️ Installation and Setup
 
 Follow these steps to run Talent-IQ locally.
@@ -387,6 +393,7 @@ Open the URL in your browser to access Talent-IQ.
 
 ---
 
+<a id="production-build"></a>
 ## 📦 Production Build
 
 The root `package.json` provides scripts for building and starting the application.
@@ -407,6 +414,7 @@ The production setup uses the built frontend files served by the Express backend
 
 ---
 
+<a id="third-party-integrations"></a>
 ## 🔌 Third-Party Integrations
 
 ### Clerk – Authentication
@@ -435,6 +443,7 @@ Inngest is integrated into the backend to handle event-driven functions, includi
 
 ---
 
+<a id="deployment"></a>
 ## ☁️ Deployment
 
 Talent-IQ is deployed on **Render**.
@@ -454,7 +463,7 @@ The production frontend communicates with the backend using the deployed API con
 
 ---
 
-
+<a id="developer"></a>
 ## 👨‍💻 Developer
 
 **Sanskar Mittal | Full-Stack Web Developer**
@@ -465,6 +474,13 @@ The production frontend communicates with the backend using the deployed API con
 
 ---
 
+<a id="license"></a>
 ## 📄 License
 
 The backend package currently specifies the ISC license. No repository-wide license has been confirmed. Please check the intended licensing terms before distributing this project under an open-source license.
+
+---
+
+<p align="center">
+  <a href="#table-of-contents">⬆️ Back to Table of Contents</a>
+</p>
