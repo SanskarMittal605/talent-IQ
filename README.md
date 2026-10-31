@@ -12,24 +12,24 @@
 
 ---
 
+<a id="table-of-contents"></a>
 ## 📌 Table of Contents
-
-## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Live Application](#live-application)
 - [Key Features](#key-features)
-- [Application Preview](#application-preview)
 - [Technology Stack](#technology-stack)
 - [System Architecture](#system-architecture)
 - [How Talent-IQ Works](#how-talent-iq-works)
 - [Project Structure](#project-structure)
 - [Installation and Setup](#installation-and-setup)
-- [Environment Variables](#environment-variables)
+- [Production Build](#production-build)
 - [Third-Party Integrations](#third-party-integrations)
 - [Deployment](#deployment)
-- [Future Enhancements](#future-enhancements)
 - [Developer](#developer)
+- [License](#license)
+
+---
 
 ---
 
