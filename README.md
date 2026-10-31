@@ -451,9 +451,9 @@ The production frontend communicates with the backend using the deployed API con
 ---
 
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-**Sanskar Mittal**
+**Sanskar Mittal | Full-Stack Web Developer**
 
 - GitHub: [SanskarMittal605](https://github.com/SanskarMittal605)
 - Project Repository: [Talent-IQ](https://github.com/SanskarMittal605/talent-IQ)
